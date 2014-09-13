@@ -40,3 +40,5 @@
     account.withdraw(800); //Insufficient funds
     print(account.toString());//Balance:750
 ```
+
+> 第一章 JavaScript 的编程环境和模型 完
