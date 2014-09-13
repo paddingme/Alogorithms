@@ -25,7 +25,7 @@ num 参数必需，范围为0-20,如果没有，默认为0。当 num 太小或�
         if (amount <= this.balance) {
             this.balance -= amount;
         }
-        if (amount >this.balance) {
+        if (amount > this.balance) {
             print("Insufficient funds");
         }
     }
